@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "edu.uw.ischool.avajjh.activityspy"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "edu.uw.ischool.avajjh.activityspy"
